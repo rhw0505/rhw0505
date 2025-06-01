@@ -8,7 +8,7 @@ I'm a Computer Science student specializing in Intelligent Systems. My interests
 Interests:
 - Python
 - Data Pre-processing Libraries (Pandas, matplotlib, NumPy, seaborn, etc.)
-- Machine Learning & Deep Learning Libraries (
+- Machine Learning & Deep Learning Libraries
 
 <!---
 rhw0505/rhw0505 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
