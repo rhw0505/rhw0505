@@ -1,4 +1,4 @@
-👋 Hi, I'm Richard!
+Hi, I'm Richard!
 I'm a Computer Science student specializing in Intelligent Systems. My interests lie in data preprocessing, machine learning algorithms, data analytics, and deep learning.
 
 Passionate about turning raw data into meaningful insights
