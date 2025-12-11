@@ -1,9 +1,9 @@
 👋 Hi, I'm Richard!
 I'm a Computer Science student specializing in Intelligent Systems. My interests lie in data preprocessing, machine learning algorithms, data analytics, and deep learning.
 
-💡 Passionate about turning raw data into meaningful insights
-⚙️ Exploring AI and ML models for real-world applications
-📊 Interested in data-driven decision-making
+Passionate about turning raw data into meaningful insights
+Exploring AI and ML models for real-world applications
+Interested in data-driven decision-making
 
 Interests:
 - Python
